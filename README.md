@@ -1,1 +1,1 @@
-# microservices-config-repo
+# Reservation-config-repo
